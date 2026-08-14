@@ -204,6 +204,7 @@ The Employee Performance & HR Analytics Dashboard demonstrates how Power BI can 
 
 ## Dashboard 
 Page 1: (https://github.com/shaileepawar02/HR-analytics-PowerBi/blob/main/Dashboard%20pg1.png)
+
 Page 2: (https://github.com/shaileepawar02/HR-analytics-PowerBi/blob/main/Dashboard%20pg2.png)
 
 This project showcases practical skills in Power BI, Power Query, DAX, data visualization, HR analytics, and business-focused data analysis, making it suitable as a portfolio project for Data Analyst, MIS Executive, Business Intelligence, and HR Analytics roles.

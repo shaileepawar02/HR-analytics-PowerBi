@@ -112,20 +112,20 @@ Job-role KPI scores are relatively consistent across the displayed roles.
 Training hours and attendance can be analyzed alongside performance to identify workforce patterns.
 
 ## Business Questions Answered
-How many employees are in the dataset?
-What is the average attendance?
-What is the average KPI score?
-How many employees are eligible for promotion?
-What percentage of employees are promotion eligible?
-Which department has the highest total KPI score?
-Which job roles have higher average KPI scores?
-Which department has the highest average peer rating?
-How does attendance compare with performance?
-Is there a relationship between training hours and performance?
-How is promotion eligibility distributed by department?
-How does performance vary between individual employees?
+1.How many employees are in the dataset?
+2.What is the average attendance?
+3.What is the average KPI score?
+4.How many employees are eligible for promotion?
+5.What percentage of employees are promotion eligible?
+6.Which department has the highest total KPI score?
+7.Which job roles have higher average KPI scores?
+8.Which department has the highest average peer rating?
+9.How does attendance compare with performance?
+10.Is there a relationship between training hours and performance?
+11.How is promotion eligibility distributed by department?
+12.How does performance vary between individual employees?
 
- ##Project Workflow
+ ## Project Workflow
 
 Raw Employee Dataset
         -->
@@ -152,27 +152,27 @@ The dashboard provides HR stakeholders with a centralized view of employee perfo
 The project can support employee performance monitoring, promotion analysis, department comparison, performance reviews, training analysis, workforce reporting, and HR decision support.
 
 ## Skills Demonstrated
-Power BI
-Power Query
-DAX
-Data Cleaning
-Data Transformation
-Data Modeling
-KPI Development
-Dashboard Development
-Data Visualization
-HR Analytics
-Exploratory Data Analysis
-Business Intelligence
-Interactive Reporting
-Business Analysis
+Power BI,
+Power Query,
+DAX,
+Data Cleaning,
+Data Transformation,
+Data Modeling,
+KPI Development,
+Dashboard Development,
+Data Visualization,
+HR Analytics,
+Exploratory Data Analysis,
+Business Intelligence,
+Interactive Reporting,
+Business Analysis,
 
 ## Conclusion
 
 The Employee Performance & HR Analytics Dashboard demonstrates how Power BI can transform raw employee data into an interactive business intelligence solution. By combining KPI cards, department and job-role analysis, promotion eligibility, employee-level performance, attendance, training, manager feedback, and peer ratings, the project provides a comprehensive view of workforce performance.
 
 ## Dashboard 
-Page 1: ()
-Page 2: ()
+Page 1: (https://github.com/shaileepawar02/HR-analytics-PowerBi/blob/main/Dashboard%20pg1.png)
+Page 2: (https://github.com/shaileepawar02/HR-analytics-PowerBi/blob/main/Dashboard%20pg2.png)
 
 This project showcases practical skills in Power BI, Power Query, DAX, data visualization, HR analytics, and business-focused data analysis, making it suitable as a portfolio project for Data Analyst, MIS Executive, Business Intelligence, and HR Analytics roles.

@@ -66,6 +66,7 @@ Average KPI Score   77.38
 ## Dashboard Visualizations
 1. Performance by Department
 Compares employee performance across Sales, Finance, HR, IT, and Marketing.
+
 2. KPI Score by Department
 The dashboard compares total KPI scores across departments:
 Sales: 80.21K
@@ -74,20 +75,28 @@ HR: 78.44K
 IT: 75.43K
 Marketing: 74.21K
 This visual uses the sum of KPI score, so it represents the total KPI contribution of each department.
+
 3. Promotion Eligibility
 A donut/stacked chart shows promotion eligibility. 695 employees (13.9%) are eligible for promotion, while approximately 86.1% are not eligible.
+
 4. Manager Feedback and Employee Distribution
 Visualizes manager feedback alongside employee count to provide an overview of feedback distribution.
+
 5. Employee-Level Performance
 A table displays employee names and performance scores, allowing users to review individual performance.
+
 6. Training Hours vs Performance
 A scatter chart compares training hours with performance score to explore possible relationships between employee development and performance.
+
 7. Attendance by Department
 A treemap compares total attendance across Sales, Finance, HR, IT, and Marketing.
+
 8. Attendance vs Performance
 A scatter visualization compares attendance with performance score to explore possible relationships between attendance and employee performance.
+
 9. Average KPI Score by Job Role
 Compares average KPI scores across roles such as Recruitment Specialist, Auditor, Sales Executive, HR Manager, and Data Analyst.
+
 10. Average Peer Rating by Department
 Compares average peer ratings across Marketing, Finance, HR, Sales, and IT.
 
@@ -101,28 +110,50 @@ These filters allow users to dynamically analyze specific employee groups and de
 
 ## Key Insights
 The dataset contains 5,000 employees.
+
 695 employees are promotion eligible.
+
 Approximately 13.9% of employees are eligible for promotion.
+
 Average attendance is 87.47%.
+
 Average KPI score is 77.38.
+
 Total performance score is approximately 374K.
+
 Sales has the highest displayed total KPI score.
+
 Marketing has the highest displayed average peer rating.
+
 Job-role KPI scores are relatively consistent across the displayed roles.
+
 Training hours and attendance can be analyzed alongside performance to identify workforce patterns.
 
 ## Business Questions Answered
 1.How many employees are in the dataset?
+
+
 2.What is the average attendance?
+
 3.What is the average KPI score?
+
 4.How many employees are eligible for promotion?
+
 5.What percentage of employees are promotion eligible?
+
+
 6.Which department has the highest total KPI score?
+
 7.Which job roles have higher average KPI scores?
+
 8.Which department has the highest average peer rating?
+
 9.How does attendance compare with performance?
+
 10.Is there a relationship between training hours and performance?
+
 11.How is promotion eligibility distributed by department?
+
 12.How does performance vary between individual employees?
 
  ## Project Workflow

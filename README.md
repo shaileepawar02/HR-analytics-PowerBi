@@ -203,7 +203,7 @@ Business Analysis,
 The Employee Performance & HR Analytics Dashboard demonstrates how Power BI can transform raw employee data into an interactive business intelligence solution. By combining KPI cards, department and job-role analysis, promotion eligibility, employee-level performance, attendance, training, manager feedback, and peer ratings, the project provides a comprehensive view of workforce performance.
 
 ## Dashboard 
-Page 1: (https://github.com/shaileepawar02/HR-analytics-PowerBi/blob/main/Dashboard%20pg1.png)
+Page 1: ([https://github.com/shaileepawar02/HR-analytics-PowerBi/blob/main/Dashboard%20pg1.png](https://github.com/shaileepawar02/HR-analytics-PowerBi/blob/main/Dashboard/Dashboard%20pg1.png))
 
 
 Page 2: (https://github.com/shaileepawar02/HR-analytics-PowerBi/blob/main/Dashboard%20pg2.png)
